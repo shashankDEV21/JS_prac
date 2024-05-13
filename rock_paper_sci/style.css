@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial;
+}
+.heading-para{
+    font-size: 25px;
+    font-weight: bold;
+}
+.icons-img{
+height: 50px;
+}
+.btn-style{
+    height: 120px;
+    width: 120px;
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 60px;
+    margin-right: 5px;
+    cursor: pointer;
+
+}
+.res{
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.move{
+    margin-bottom: 50px;
+}
+.reset{
+    background-color: white;
+    border: none;
+    font-size: 15px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+.inside-site{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+ img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 0.07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
